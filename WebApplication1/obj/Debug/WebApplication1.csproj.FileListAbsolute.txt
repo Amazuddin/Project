@@ -1,0 +1,6 @@
+F:\Githubfiles\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\Githubfiles\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\Githubfiles\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\Githubfiles\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\Githubfiles\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Githubfiles\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
